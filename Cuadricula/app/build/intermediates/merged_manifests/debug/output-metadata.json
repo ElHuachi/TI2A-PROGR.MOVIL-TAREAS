@@ -4,7 +4,7 @@
     "type": "MERGED_MANIFESTS",
     "kind": "Directory"
   },
-  "applicationId": "com.example.affirmations",
+  "applicationId": "net.juanaghuachi.cuadricula",
   "variantName": "debug",
   "elements": [
     {
