@@ -1,0 +1,126 @@
+[
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_gaming.jpg.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/gaming.jpg"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_lifestyle.jpg.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/lifestyle.jpg"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_music.jpg.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/music.jpg"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_architecture.jpg.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/architecture.jpg"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_tech.jpg.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/tech.jpg"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_business.jpg.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/business.jpg"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/mipmap-xxxhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/mipmap-anydpi-v26/ic_launcher.xml"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/mipmap-xxxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_crafts.jpg.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/crafts.jpg"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/xml_data_extraction_rules.xml.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/xml/data_extraction_rules.xml"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_film.jpg.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/film.jpg"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_design.jpg.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/design.jpg"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/mipmap-xhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_fashion.jpg.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/fashion.jpg"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_culinary.jpg.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/culinary.jpg"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_photography.jpg.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/photography.jpg"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_ic_launcher_background.xml.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_painting.jpg.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/painting.jpg"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/mipmap-xhdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/xml_backup_rules.xml.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/xml/backup_rules.xml"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/mipmap-hdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_ic_grain.xml.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/ic_grain.xml"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/mipmap-xxhdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/mipmap-mdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/drawable_drawing.jpg.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/drawable/drawing.jpg"
+    },
+    {
+        "merged": "net.juanaghuachi.cuadricula.app-merged_res-44:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "net.juanaghuachi.cuadricula.app-main-46:/mipmap-xxhdpi/ic_launcher.webp"
+    }
+]
