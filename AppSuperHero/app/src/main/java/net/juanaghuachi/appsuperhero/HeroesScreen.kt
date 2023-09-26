@@ -42,6 +42,7 @@ import net.juanaghuachi.appsuperhero.model.Hero
 import net.juanaghuachi.appsuperhero.model.HeroesRepository
 import net.juanaghuachi.appsuperhero.ui.theme.SuperheroesTheme
 
+
 @OptIn(ExperimentalAnimationApi::class)
 @Composable
 fun HeroesList(
@@ -126,14 +127,14 @@ fun HeroListItem(
 @Preview("Light Theme")
 @Preview("Dark Theme", uiMode = Configuration.UI_MODE_NIGHT_YES)
 @Composable
-fun HeroPreview(){
+fun HeroPreview() {
     val hero = Hero(
         R.string.hero1,
         R.string.description1,
         R.drawable.android_superhero1
     )
     SuperheroesTheme {
-        HeroesList(heroes = hero)
+        HeroListItem(hero = hero)
     }
 }
 
