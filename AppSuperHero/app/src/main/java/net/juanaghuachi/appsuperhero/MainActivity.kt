@@ -1,3 +1,5 @@
+@file:OptIn(ExperimentalMaterial3Api::class)
+
 package net.juanaghuachi.appsuperhero
 
 import android.os.Bundle
@@ -22,7 +24,6 @@ class MainActivity : ComponentActivity() {
         super.onCreate(savedInstanceState)
         setContent {
             SuperheroesTheme {
-                // A surface container using the 'background' color from the theme
                 Surface(
                     modifier = Modifier.fillMaxSize(),
                     color = MaterialTheme.colorScheme.background
@@ -32,7 +33,6 @@ class MainActivity : ComponentActivity() {
             }
         }
     }
-}
 
 @Composable
 fun SuperheroesApp() {
@@ -47,25 +47,25 @@ fun SuperheroesApp() {
     }
 }
 
-@OptIn(ExperimentalMaterial3Api::class)
-@Composable
-fun TopAppBar(modifier: Modifier = Modifier) {
-    CenterAlignedTopAppBar(
-        title = {
-            Text(
-                text = stringResource(R.string.app_name),
-                style = MaterialTheme.typography.displayLarge,
-            )
-        },
-        modifier = modifier
-    )
-}
+    @OptIn(ExperimentalMaterial3Api::class)
+    @Composable
+    fun TopAppBar(modifier: Modifier = Modifier) {
+        CenterAlignedTopAppBar(
+            title = {
+                Text(
+                    text = stringResource(R.string.app_name),
+                    style = MaterialTheme.typography.displayLarge,
+                )
+            },
+            modifier = modifier
+        )
+    }
 
-
-@Preview(showBackground = true)
-@Composable
-fun SuperHeroesPreview() {
-    SuperheroesTheme {
-        SuperheroesApp()
+    @Preview(showBackground = true)
+    @Composable
+    fun SuperHeroesPreview() {
+        SuperheroesTheme {
+            SuperheroesApp()
+        }
     }
 }
